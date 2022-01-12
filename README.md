@@ -1,3 +1,7 @@
-# ilk-web-sayfasi
-### front-end egitimi icin ikinci odevi yukledim.
-### bu odevde kendimden, sevdigim seylerden ve kedilerimden bahsettim.
+### İkinci Ödev: İlk Web Sayfası
+Front-end eğitimi için ikinci ödevi yükledim. Bu ödevde; 
+* kendimden, 
+* sevdigim seylerden,
+* kedilerimden bahsettim.
+
+[GitHub Profilim](https://github.com/sevimekmen)
